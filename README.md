@@ -1,3 +1,4 @@
+https://github.com/Akivaga
 - 👋 Hi, I’m @Akivaga
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning UX/UI design
